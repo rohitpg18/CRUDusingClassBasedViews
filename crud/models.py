@@ -8,3 +8,7 @@ class Student(models.Model):
 
     def __str__(self):
         return self.name
+    
+    
+    
+    #('id', 'name', 'phone_number', 'email', )
